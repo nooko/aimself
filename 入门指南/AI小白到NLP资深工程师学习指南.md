@@ -138,7 +138,7 @@
 ### 推荐资源
 
 - Stanford CS224N（NLP with Deep Learning）
-- Juerta & Martin《Speech and Language Processing》
+- Jurafsky & Martin《Speech and Language Processing》
 - 《Neural Network Methods for Natural Language Processing》
 
 ### 实践项目
